@@ -1,0 +1,4 @@
+D:\GreenLife\GreenLife\CapaDatos_GreenLife\bin\Debug\CapaDatos_GreenLife.dll
+D:\GreenLife\GreenLife\CapaDatos_GreenLife\bin\Debug\CapaDatos_GreenLife.pdb
+D:\GreenLife\GreenLife\CapaDatos_GreenLife\obj\Debug\CapaDatos_GreenLife.dll
+D:\GreenLife\GreenLife\CapaDatos_GreenLife\obj\Debug\CapaDatos_GreenLife.pdb

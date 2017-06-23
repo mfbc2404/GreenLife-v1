@@ -1,0 +1,9 @@
+D:\GreenLife\GreenLife\CapaNegocio_GreenLife\bin\Debug\CapaNegocio_GreenLife.dll
+D:\GreenLife\GreenLife\CapaNegocio_GreenLife\bin\Debug\CapaNegocio_GreenLife.pdb
+D:\GreenLife\GreenLife\CapaNegocio_GreenLife\obj\Debug\CapaNegocio_GreenLife.dll
+D:\GreenLife\GreenLife\CapaNegocio_GreenLife\obj\Debug\CapaNegocio_GreenLife.pdb
+C:\Users\user\Desktop\Greenlife\GreenLife\GreenLife\CapaNegocio_GreenLife\bin\Debug\CapaNegocio_GreenLife.dll
+C:\Users\user\Desktop\Greenlife\GreenLife\GreenLife\CapaNegocio_GreenLife\bin\Debug\CapaNegocio_GreenLife.pdb
+C:\Users\user\Desktop\Greenlife\GreenLife\GreenLife\CapaNegocio_GreenLife\obj\Debug\CapaNegocio_GreenLife.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Greenlife\GreenLife\GreenLife\CapaNegocio_GreenLife\obj\Debug\CapaNegocio_GreenLife.dll
+C:\Users\user\Desktop\Greenlife\GreenLife\GreenLife\CapaNegocio_GreenLife\obj\Debug\CapaNegocio_GreenLife.pdb
